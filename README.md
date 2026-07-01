@@ -1,6 +1,4 @@
 # Traffic Demand Prediction using LightGBM & XGBoost
-**Innovexa Catalyst - Machine Learning Project Task**
-
 This repository contains a complete, production-ready machine learning system designed to predict traffic demand (volume) along the Interstate 94 corridor using historical traffic, environmental, and meteorological data.
 
 ---
